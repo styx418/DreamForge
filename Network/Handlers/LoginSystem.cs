@@ -1,17 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Net.Sockets;
-using System.Security.Cryptography;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-using DreamCraftServer0._02.Data;
-using DreamCraftServer0._02.Data.Models;
-using DreamCraftServer0._02.Utils;
-using MySql.Data.MySqlClient;
+﻿
 
-namespace DreamCraftServer0._02.Network
+ using System.Collections.Generic;
+ using System.Data;
+ using System.Net.Sockets;
+ using System.Security.Cryptography;
+ using System.Text;
+ using System.Text.Json;
+ using System.Threading.Tasks;
+ using DreamCraftServer0._02.Data;
+ using DreamCraftServer0._02.Data.Models;
+ using DreamCraftServer0._02.Utils;
+ using MySql.Data.MySqlClient;
+ 
+ namespace DreamCraftServer0._02.Network
 {
     public static class LoginSystem
     {
@@ -24,7 +25,8 @@ namespace DreamCraftServer0._02.Network
                 using var connection = Database.GetConnection();
                 await connection.OpenAsync();
 
-                var cmd = new MySqlCommand("SELECT * FROM accounts WHERE username = @username", connection);
+                
+                var cmd = new MySqlCommand(@"SELECT id, email, password, account_level, is_active, is_banned FROM accounts WHERE username = @username", connection);
                 cmd.Parameters.AddWithValue("@username", username);
 
                 using var reader = await cmd.ExecuteReaderAsync();
@@ -38,18 +40,20 @@ namespace DreamCraftServer0._02.Network
 
                 await reader.ReadAsync();
 
-                string hash = reader.GetString("password_hash");
-                string salt = reader.GetString("password_salt");
+               
+                string storedPassword = reader.GetString("password");
 
                 bool isActive = reader.GetBoolean("is_active");
                 bool isBanned = reader.GetBoolean("is_banned");
 
                 int id = reader.GetInt32("id");
                 string email = reader.GetString("email");
-                int role = reader.GetInt32("role");
+               
+                int accountLevel = reader.GetInt32("account_level");
 
                 string inputHash = ComputeHash(password, salt);
-                if (inputHash != hash)
+                         
+                                    if (password != storedPassword)
                 {
                     await SendResponse(client, new { success = false, message = "Mot de passe incorrect." });
                     Logger.Warning($"[LOGIN] Mot de passe incorrect pour : {username}");
@@ -74,17 +78,20 @@ namespace DreamCraftServer0._02.Network
                 reader.Close();
 
                 var updateCmd = new MySqlCommand(@"
-                    UPDATE accounts 
-                    SET last_login = CURRENT_TIMESTAMP, 
-                        last_ip = @ip, 
-                        online = 1 
-                    WHERE id = @id", connection);
-                updateCmd.Parameters.AddWithValue("@ip", ip);
+-                    UPDATE accounts 
+-                    SET last_login = CURRENT_TIMESTAMP, 
+-                        last_ip = @ip, 
+-                        online = 1 
++                    UPDATE accounts
++                    SET last_loggin = CURRENT_TIMESTAMP,
++                        online = 1
+                     WHERE id = @id", connection);
+              
                 updateCmd.Parameters.AddWithValue("@id", id);
                 await updateCmd.ExecuteNonQueryAsync();
 
                 Logger.Success($"[LOGIN] {username} connecté depuis {ip}");
-                
+
                 var characterList = new List<object>();
                 using var charCmd = new MySqlCommand("SELECT Player_Name, Player_Skin, Level, Gender, Race FROM characters WHERE acc_id = @acc_id AND is_deleted = 0", connection);
                 charCmd.Parameters.AddWithValue("@acc_id", id);
@@ -109,11 +116,12 @@ namespace DreamCraftServer0._02.Network
                     Id = id,
                     Username = username,
                     Email = email,
-                    Role = role,
+                    -Role = role,
+                    +Role = accountLevel,
                     IsActive = isActive,
                     IsBanned = isBanned,
-                    LastIP = ip,
-                    LastLogin = DateTime.Now,
+                    -LastIP = ip,
+                    -LastLogin = DateTime.Now,
                     Online = true
                 };
 
@@ -139,12 +147,6 @@ namespace DreamCraftServer0._02.Network
             await client.GetStream().WriteAsync(buffer, 0, buffer.Length);
         }
 
-        private static string ComputeHash(string password, string salt)
-        {
-            using var sha256 = SHA256.Create();
-            var combined = Encoding.UTF8.GetBytes(password + salt);
-            var hash = sha256.ComputeHash(combined);
-            return Convert.ToBase64String(hash);
-        }
+
     }
 }
