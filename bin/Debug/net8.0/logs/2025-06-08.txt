@@ -1,0 +1,36 @@
+[00:00:05] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56623
+[00:02:39] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56673
+[00:04:04] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56687
+[00:04:37] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56711
+[00:05:09] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[00:05:12] [SUCCESS] Connexion à la base de données MySQL établie !
+[00:05:12] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[00:05:12] [INFO] [TCP] Serveur en écoute sur le port 7777
+[00:05:12] [INFO] [UDP] Serveur en écoute sur le port 7778
+[00:05:12] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[00:05:13] [SUCCESS] [OK] Base de Données
+[00:05:13] [SUCCESS] [OK] Serveur Réseau
+[00:05:13] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[00:05:36] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56768
+[00:06:20] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56787
+[00:07:39] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56814
+[00:08:16] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[00:08:19] [SUCCESS] Connexion à la base de données MySQL établie !
+[00:08:19] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[00:08:19] [INFO] [TCP] Serveur en écoute sur le port 7777
+[00:08:19] [INFO] [UDP] Serveur en écoute sur le port 7778
+[00:08:19] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[00:08:20] [SUCCESS] [OK] Base de Données
+[00:08:20] [SUCCESS] [OK] Serveur Réseau
+[00:08:20] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[00:08:31] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56843
+[00:09:48] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56873
+[00:24:34] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56932
+[00:25:10] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56958
+[00:27:48] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:57015

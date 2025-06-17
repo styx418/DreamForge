@@ -1,0 +1,223 @@
+[08:20:55] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[08:21:03] [SUCCESS] Connexion à la base de données MySQL établie !
+[08:21:03] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[08:21:03] [INFO] [TCP] Serveur en écoute sur le port 7777
+[08:21:03] [INFO] [UDP] Serveur en écoute sur le port 7778
+[08:21:03] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[08:21:03] [SUCCESS] [OK] Base de Données
+[08:21:03] [SUCCESS] [OK] Serveur Réseau
+[08:21:03] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[08:41:20] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[08:41:23] [SUCCESS] Connexion à la base de données MySQL établie !
+[08:41:23] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[08:41:23] [INFO] [TCP] Serveur en écoute sur le port 7777
+[08:41:23] [INFO] [UDP] Serveur en écoute sur le port 7778
+[08:41:23] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[08:41:23] [SUCCESS] [OK] Base de Données
+[08:41:23] [SUCCESS] [OK] Serveur Réseau
+[08:41:23] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[08:51:45] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:61245
+[08:54:48] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:61273
+[09:21:26] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[09:21:29] [SUCCESS] Connexion à la base de données MySQL établie !
+[09:21:29] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[09:21:30] [INFO] [TCP] Serveur en écoute sur le port 7777
+[09:21:30] [INFO] [UDP] Serveur en écoute sur le port 7778
+[09:21:30] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[09:21:30] [SUCCESS] [OK] Base de Données
+[09:21:30] [SUCCESS] [OK] Serveur Réseau
+[09:21:30] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[09:21:51] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:61550
+[09:21:51] [DEBUG] [TCP] Message reçu : LOGIN:Styx:Junior<EOF>
+[09:21:51] [INFO] [LOGIN] Tentative de connexion : Styx
+[09:21:51] [ERROR] [LOGIN] Erreur interne : The connection is already open
+[09:22:45] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[09:22:49] [SUCCESS] Connexion à la base de données MySQL établie !
+[09:22:49] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[09:22:49] [INFO] [TCP] Serveur en écoute sur le port 7777
+[09:22:49] [INFO] [UDP] Serveur en écoute sur le port 7778
+[09:22:49] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[09:22:49] [SUCCESS] [OK] Base de Données
+[09:22:49] [SUCCESS] [OK] Serveur Réseau
+[09:22:49] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[09:23:04] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:61582
+[09:23:04] [DEBUG] [TCP] Message reçu : LOGIN:Styx:Junior<EOF>
+[09:23:04] [INFO] [LOGIN] Tentative de connexion : Styx
+[09:23:04] [ERROR] [LOGIN] Erreur interne : The connection is already open
+[11:55:36] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[11:55:39] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[11:55:39] [ERROR] [DATABASE] Échec de la connexion à MySQL : Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+[11:55:39] [ERROR] [ERREUR] Impossible de se connecter à la base de données.
+Initialisation : Réseau
+[11:55:39] [INFO] [TCP] Serveur en écoute sur le port 7777
+[11:55:39] [INFO] [UDP] Serveur en écoute sur le port 7778
+[11:55:40] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[11:55:40] [ERROR] [ERREUR] Base de Données
+[11:55:40] [SUCCESS] [OK] Serveur Réseau
+[11:55:40] [ERROR] ❌ Un ou plusieurs modules ont échoué. Arrêt du serveur.
+[11:55:40] [WARNING] Arrêt du serveur en cours...
+[11:55:40] [INFO] Sauvegarde des données en cours...
+[11:55:40] [INFO] [DATA MANAGER] Sauvegarde de tous les joueurs...
+[11:55:40] [SUCCESS] [DATA MANAGER] Sauvegarde terminée.
+[11:55:40] [SUCCESS] [OK] Données sauvegardées.
+[11:55:40] [INFO] Déconnexion des joueurs...
+[11:55:40] [SUCCESS] [OK] Tous les joueurs ont été déconnectés.
+[11:55:40] [SUCCESS] ✅ Le serveur s'est arrêté proprement.
+[11:56:49] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[11:56:52] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[11:56:52] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[11:56:52] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[11:56:52] [INFO] [TCP] Serveur en écoute sur le port 7777
+[11:56:52] [INFO] [UDP] Serveur en écoute sur le port 7778
+[11:56:52] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[11:56:53] [SUCCESS] [OK] Base de Données
+[11:56:53] [SUCCESS] [OK] Serveur Réseau
+[11:56:53] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[11:57:19] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62457
+[11:57:19] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:19] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:19] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:46] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62458
+[11:57:46] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:46] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:46] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:47] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62459
+[11:57:47] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:47] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:47] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:47] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62460
+[11:57:47] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:47] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:47] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:48] [WARNING] [TCP] Client déconnecté.
+[11:57:48] [WARNING] [TCP] Client déconnecté.
+[11:57:48] [WARNING] [TCP] Client déconnecté.
+[11:57:48] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62461
+[11:57:48] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:48] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:48] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:50] [WARNING] [TCP] Client déconnecté.
+[11:57:50] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62465
+[11:57:50] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:50] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:50] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:50] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62466
+[11:57:50] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:50] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:50] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:51] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62467
+[11:57:51] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:51] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:51] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:51] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62468
+[11:57:51] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:51] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:51] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:51] [WARNING] [TCP] Client déconnecté.
+[11:57:51] [WARNING] [TCP] Client déconnecté.
+[11:57:51] [WARNING] [TCP] Client déconnecté.
+[11:57:51] [WARNING] [TCP] Client déconnecté.
+[11:57:52] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62469
+[11:57:52] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:52] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:52] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:52] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62470
+[11:57:52] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:57:52] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:57:52] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[11:57:53] [WARNING] [TCP] Client déconnecté.
+[11:57:53] [WARNING] [TCP] Client déconnecté.
+[11:59:00] [WARNING] [TCP] Client déconnecté.
+[11:59:14] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62513
+[11:59:14] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[11:59:14] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[11:59:14] [WARNING] [LOGIN] Utilisateur inexistant : Styx
+[12:13:01] [WARNING] [TCP] Client déconnecté.
+[12:13:13] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62589
+[12:13:13] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:13:13] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:13:13] [SUCCESS] [LOGIN] Styx connecté depuis 127.0.0.1
+[12:15:14] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[12:15:16] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[12:15:17] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[12:15:17] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[12:15:17] [INFO] [TCP] Serveur en écoute sur le port 7777
+[12:15:17] [INFO] [UDP] Serveur en écoute sur le port 7778
+[12:15:17] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[12:15:17] [SUCCESS] [OK] Base de Données
+[12:15:17] [SUCCESS] [OK] Serveur Réseau
+[12:15:17] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[12:15:32] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62654
+[12:15:32] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:15:32] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:15:32] [WARNING] [LOGIN] Compte inactif pour : Styx
+[12:16:14] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62671
+[12:16:14] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:16:14] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:16:14] [SUCCESS] [LOGIN] Styx connecté depuis 127.0.0.1
+[12:16:15] [WARNING] [TCP] Client déconnecté.
+[12:16:24] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62675
+[12:16:24] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:16:24] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:16:24] [SUCCESS] [LOGIN] Styx connecté depuis 127.0.0.1
+[12:16:25] [WARNING] [TCP] Client déconnecté.
+[12:16:46] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[12:16:49] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[12:16:49] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[12:16:49] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[12:16:50] [INFO] [TCP] Serveur en écoute sur le port 7777
+[12:16:50] [INFO] [UDP] Serveur en écoute sur le port 7778
+[12:16:50] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[12:16:50] [SUCCESS] [OK] Base de Données
+[12:16:50] [SUCCESS] [OK] Serveur Réseau
+[12:16:50] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[12:17:07] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62701
+[12:17:07] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:17:07] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:17:07] [SUCCESS] [LOGIN] Styx connecté depuis 127.0.0.1
+[12:17:31] [WARNING] [TCP] Client déconnecté.
+[12:17:44] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62725
+[12:17:44] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:17:44] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:17:44] [SUCCESS] [LOGIN] Styx connecté depuis 127.0.0.1
+[12:18:06] [WARNING] [TCP] Client déconnecté.
+[12:18:19] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:62765
+[12:18:19] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:18:19] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:18:19] [WARNING] [LOGIN] Compte banni : Styx
+[23:13:45] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:13:48] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[23:13:49] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[23:13:49] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:13:49] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:13:49] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:13:49] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:13:49] [SUCCESS] [OK] Base de Données
+[23:13:49] [SUCCESS] [OK] Serveur Réseau
+[23:13:49] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.

@@ -1,0 +1,62 @@
+[00:00:41] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[00:00:43] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[00:00:44] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[00:00:44] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[00:00:44] [INFO] [TCP] Serveur en écoute sur le port 7777
+[00:00:44] [INFO] [UDP] Serveur en écoute sur le port 7778
+[00:00:44] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[00:00:44] [SUCCESS] [OK] Base de Données
+[00:00:44] [SUCCESS] [OK] Serveur Réseau
+[00:00:44] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[00:01:02] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:51464
+[00:01:02] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[00:01:02] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[00:01:02] [WARNING] [LOGIN] Mot de passe incorrect pour : Styx
+[00:02:09] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:51497
+[00:02:09] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[00:02:09] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[00:02:09] [WARNING] [LOGIN] Mot de passe incorrect pour : Styx
+[00:02:11] [WARNING] [TCP] Client déconnecté.
+[00:02:49] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:51517
+[00:02:49] [INFO] [TCP] Message reçu : LOGIN:test:test
+[00:02:49] [INFO] [LOGIN] Tentative de connexion pour : test
+[00:02:49] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[00:02:50] [WARNING] [TCP] Client déconnecté.
+[08:19:21] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[08:19:24] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[08:19:24] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[08:19:24] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[08:19:25] [INFO] [TCP] Serveur en écoute sur le port 7777
+[08:19:25] [INFO] [UDP] Serveur en écoute sur le port 7778
+[08:19:25] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[08:19:25] [SUCCESS] [OK] Base de Données
+[08:19:25] [SUCCESS] [OK] Serveur Réseau
+[08:19:25] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[08:33:28] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:50589
+[08:33:28] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[08:33:28] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[08:33:28] [WARNING] [LOGIN] Mot de passe incorrect pour : Styx
+[08:33:42] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:50597
+[08:33:42] [INFO] [TCP] Message reçu : LOGIN:test:test
+[08:33:42] [INFO] [LOGIN] Tentative de connexion pour : test
+[08:33:42] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[08:33:46] [WARNING] [TCP] Client déconnecté.
+[09:18:53] [WARNING] [TCP] Client déconnecté.
+[12:12:23] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:58153
+[12:12:23] [INFO] [TCP] Message reçu : LOGIN:Styx:Junior
+[12:12:23] [INFO] [LOGIN] Tentative de connexion pour : Styx
+[12:12:23] [WARNING] [LOGIN] Mot de passe incorrect pour : Styx
+[12:12:37] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:58160
+[12:12:37] [INFO] [TCP] Message reçu : LOGIN:test:test
+[12:12:37] [INFO] [LOGIN] Tentative de connexion pour : test
+[12:12:37] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[12:12:41] [WARNING] [TCP] Client déconnecté.
+[12:12:56] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanFemale:Female:Human
+[12:12:56] [SUCCESS] [CHARACTER] Création réussie : test
+[12:54:55] [WARNING] [TCP] Client déconnecté.

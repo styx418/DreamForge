@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>DreamCraftServer0._02</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="World\" />
+    <Folder Include="Network\Protocol\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.5" />
+    <PackageReference Include="MySql.Data" Version="9.3.0" />
+    <PackageReference Include="MySqlConnector" Version="2.4.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <Target Name="GenerateVersionFile" BeforeTargets="BeforeBuild">
+    <Exec Command="powershell -ExecutionPolicy Bypass -File GenerateVersion.ps1" />
+  </Target>
+
+  <!-- Fichier de version -->
+  <ItemGroup>
+    <None Update="version.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- Fichier de configuration -->
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- Copie des DLL internes (lib DreamCraft) -->
+  <ItemGroup>
+    <None Update="DLL\*.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>DLL\%(Filename)%(Extension)</TargetPath>
+    </None>
+  </ItemGroup>
+
+  <!-- Copie des DLL externes (MySQL, Newtonsoft, etc.) -->
+  <ItemGroup>
+    <None Update="Ressources\*.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Ressources\%(Filename)%(Extension)</TargetPath>
+    </None>
+  </ItemGroup>
+
+</Project>

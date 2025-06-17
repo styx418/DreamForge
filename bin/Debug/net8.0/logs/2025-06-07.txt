@@ -1,0 +1,206 @@
+[21:07:33] [INFO] ⏳ Démarrage des serveurs...
+[21:07:35] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:07:35] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:07:39] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:09:23] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:09:23] [INFO] ⏳ Démarrage des serveurs...
+[21:09:25] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:09:25] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:09:29] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:09:29] [INFO] Tapez 'exit' pour arrêter le serveur.
+[21:09:34] [WARNING] [COMMANDE] Fermeture du serveur demandée...
+[21:09:34] [INFO] [SERVER] Fermeture du serveur...
+[21:09:34] [WARNING] ⛔ Arrêt du serveur en cours...
+[21:09:34] [SUCCESS] ✅ Serveur arrêté proprement.
+[21:09:57] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:09:57] [INFO] ⏳ Démarrage des serveurs...
+[21:09:59] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:09:59] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:10:03] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:10:03] [INFO] Tapez 'exit' pour arrêter le serveur.
+[21:14:20] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:14:21] [INFO] ⏳ Démarrage des serveurs...
+[21:14:23] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:14:23] [INFO] 🔧 Initialisation des modules...
+[21:14:44] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:14:44] [INFO] ⏳ Démarrage des serveurs...
+[21:14:47] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:14:47] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:14:51] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:14:51] [INFO] Tapez 'exit' pour arrêter le serveur.
+[21:43:30] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:43:30] [INFO] ⏳ Démarrage des serveurs...
+[21:43:33] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:43:33] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:43:36] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:43:36] [INFO] Tapez 'exit' pour arrêter le serveur.
+[21:52:21] [INFO] [SERVER] Démarrage de DreamCraftServer...
+[21:52:21] [INFO] ⏳ Démarrage des serveurs...
+[21:52:23] [SUCCESS] ✓ Serveurs démarrés.
+
+[21:52:23] [INFO] 🔧 Initialisation des modules...
+══════════════════════════════════════════════
+[21:52:27] [SUCCESS] ✅ DreamCraftServer initialisé avec succès.
+══════════════════════════════════════════════
+[21:52:27] [INFO] Tapez 'exit' pour arrêter le serveur.
+[22:04:30] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[22:04:33] [ERROR] Erreur lors de la connexion MySQL : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+[22:04:33] [ERROR] [ERREUR] Connexion à la base de données échouée : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+Initialisation : Réseau
+[22:04:34] [ERROR] [ERREUR] Échec du démarrage du serveur réseau : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+[22:04:34] [ERROR] [ERREUR] Lancement du serveur réseau échoué : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+Vérification des modules
+[22:04:34] [ERROR] [ERREUR] Base de Données
+[22:04:34] [ERROR] [ERREUR] Serveur Réseau
+[22:04:34] [ERROR] ❌ Un ou plusieurs modules ont échoué. Arrêt du serveur.
+[22:04:34] [WARNING] Arrêt du serveur en cours...
+[22:05:43] [INFO] Démarrage du cœur du serveur...
+[22:09:07] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[22:09:10] [ERROR] Erreur lors de la connexion MySQL : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+[22:09:10] [ERROR] [ERREUR] Connexion à la base de données échouée : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+Initialisation : Réseau
+[22:09:11] [ERROR] [ERREUR] Échec du démarrage du serveur réseau : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+[22:09:11] [ERROR] [ERREUR] Lancement du serveur réseau échoué : The type initializer for 'DreamCraftServer0._02.Utils.Config' threw an exception.
+Vérification des modules
+[22:09:11] [ERROR] [ERREUR] Base de Données
+[22:09:11] [ERROR] [ERREUR] Serveur Réseau
+[22:09:11] [ERROR] ❌ Un ou plusieurs modules ont échoué. Arrêt du serveur.
+[22:09:11] [WARNING] Arrêt du serveur en cours...
+[22:11:27] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[22:11:30] [SUCCESS] Connexion à la base de données MySQL établie !
+[22:11:30] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[22:11:31] [INFO] [TCP] Serveur en écoute sur le port 7777
+[22:11:31] [INFO] [UDP] Serveur en écoute sur le port 7778
+[22:11:31] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[22:11:31] [SUCCESS] [OK] Base de Données
+[22:11:31] [SUCCESS] [OK] Serveur Réseau
+[22:11:31] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[22:41:02] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[22:41:05] [SUCCESS] Connexion à la base de données MySQL établie !
+[22:41:05] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[22:41:05] [INFO] [TCP] Serveur en écoute sur le port 7777
+[22:41:05] [INFO] [UDP] Serveur en écoute sur le port 7778
+[22:41:05] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[22:41:05] [SUCCESS] [OK] Base de Données
+[22:41:05] [SUCCESS] [OK] Serveur Réseau
+[22:41:05] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[22:41:25] [WARNING] Fermeture du serveur demandée par l'administrateur.
+[22:41:25] [WARNING] Arrêt du serveur en cours...
+[23:04:39] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:04:42] [SUCCESS] Connexion à la base de données MySQL établie !
+[23:04:42] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:04:42] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:04:42] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:04:42] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:04:43] [SUCCESS] [OK] Base de Données
+[23:04:43] [SUCCESS] [OK] Serveur Réseau
+[23:04:43] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[23:06:17] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:06:20] [SUCCESS] Connexion à la base de données MySQL établie !
+[23:06:20] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:06:20] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:06:20] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:06:20] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:06:21] [SUCCESS] [OK] Base de Données
+[23:06:21] [SUCCESS] [OK] Serveur Réseau
+[23:06:21] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[23:06:40] [WARNING] [SYSTÈME] Fermeture immédiate demandée par l’administrateur.
+[23:06:40] [WARNING] Arrêt du serveur en cours...
+[23:06:40] [INFO] Sauvegarde des données en cours...
+[23:06:40] [INFO] [DataManager] Sauvegarde des données...
+[23:06:40] [SUCCESS] [DataManager] Tous les joueurs ont été sauvegardés.
+[23:06:40] [SUCCESS] [OK] Données sauvegardées.
+[23:06:40] [INFO] Déconnexion des joueurs...
+[23:06:40] [SUCCESS] [OK] Tous les joueurs ont été déconnectés.
+[23:06:40] [SUCCESS]  Le serveur s'est arrêté proprement.
+[23:07:06] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:07:09] [SUCCESS] Connexion à la base de données MySQL établie !
+[23:07:09] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:07:10] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:07:10] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:07:10] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:07:10] [SUCCESS] [OK] Base de Données
+[23:07:10] [SUCCESS] [OK] Serveur Réseau
+[23:07:10] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[23:07:25] [WARNING] [SYSTÈME] Fermeture dans 1 minute(s) demandée.
+[23:08:15] [WARNING] Arrêt dans 10 seconde(s)...
+[23:08:16] [WARNING] Arrêt dans 9 seconde(s)...
+[23:08:17] [WARNING] Arrêt dans 8 seconde(s)...
+[23:08:18] [WARNING] Arrêt dans 7 seconde(s)...
+[23:08:19] [WARNING] Arrêt dans 6 seconde(s)...
+[23:08:20] [WARNING] Arrêt dans 5 seconde(s)...
+[23:08:21] [WARNING] Arrêt dans 4 seconde(s)...
+[23:08:22] [WARNING] Arrêt dans 3 seconde(s)...
+[23:08:23] [WARNING] Arrêt dans 2 seconde(s)...
+[23:08:24] [WARNING] Arrêt dans 1 seconde(s)...
+[23:08:25] [WARNING] [SYSTÈME] Le compte à rebours est terminé. Fermeture du serveur...
+[23:08:25] [WARNING] Arrêt du serveur en cours...
+[23:08:25] [INFO] Sauvegarde des données en cours...
+[23:08:25] [INFO] [DataManager] Sauvegarde des données...
+[23:08:25] [SUCCESS] [DataManager] Tous les joueurs ont été sauvegardés.
+[23:08:25] [SUCCESS] [OK] Données sauvegardées.
+[23:08:25] [INFO] Déconnexion des joueurs...
+[23:08:25] [SUCCESS] [OK] Tous les joueurs ont été déconnectés.
+[23:08:25] [SUCCESS]  Le serveur s'est arrêté proprement.
+[23:10:56] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:10:59] [SUCCESS] Connexion à la base de données MySQL établie !
+[23:10:59] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:10:59] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:10:59] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:10:59] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:10:59] [SUCCESS] [OK] Base de Données
+[23:10:59] [SUCCESS] [OK] Serveur Réseau
+[23:10:59] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[23:34:54] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[23:34:57] [SUCCESS] Connexion à la base de données MySQL établie !
+[23:34:57] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[23:34:57] [INFO] [TCP] Serveur en écoute sur le port 7777
+[23:34:57] [INFO] [UDP] Serveur en écoute sur le port 7778
+[23:34:57] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[23:34:58] [SUCCESS] [OK] Base de Données
+[23:34:58] [SUCCESS] [OK] Serveur Réseau
+[23:34:58] [SUCCESS]  DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[23:35:07] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56305
+[23:36:53] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56342
+[23:44:24] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56500
+[23:57:06] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56562
+[23:58:44] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:56590

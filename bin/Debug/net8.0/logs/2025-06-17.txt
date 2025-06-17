@@ -1,0 +1,13 @@
+[07:49:55] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[07:50:00] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[07:50:00] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[07:50:00] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[07:50:01] [INFO] [TCP] Serveur en écoute sur le port 7777
+[07:50:01] [INFO] [UDP] Serveur en écoute sur le port 7778
+[07:50:01] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[07:50:01] [SUCCESS] [OK] Base de Données
+[07:50:01] [SUCCESS] [OK] Serveur Réseau
+[07:50:01] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.

@@ -1,0 +1,151 @@
+[03:57:47] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[03:57:51] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[03:57:52] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[03:57:52] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[03:57:52] [INFO] [TCP] Serveur en écoute sur le port 7777
+[03:57:52] [INFO] [UDP] Serveur en écoute sur le port 7778
+[03:57:52] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[03:57:52] [SUCCESS] [OK] Base de Données
+[03:57:52] [SUCCESS] [OK] Serveur Réseau
+[03:57:52] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[03:58:36] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52107
+[03:58:36] [INFO] [TCP] Message reçu : LOGIN:test:test
+[03:58:36] [INFO] [LOGIN] Tentative de connexion pour : test
+[03:58:37] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[03:59:05] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[03:59:25] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[04:00:20] [WARNING] [TCP] Client déconnecté.
+[04:00:29] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52199
+[04:00:29] [INFO] [TCP] Message reçu : LOGIN:test:test
+[04:00:29] [INFO] [LOGIN] Tentative de connexion pour : test
+[04:00:29] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[04:00:47] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[04:01:11] [INFO] [TCP] Message reçu : CREATE_CHARACTER:jonh:HumanMale:Male:Human
+[04:01:11] [SUCCESS] [CHARACTER] Création réussie : jonh
+[04:01:11] [INFO] [TCP] Message reçu : REQUEST_CHARACTERS:0
+[04:04:50] [WARNING] [TCP] Client déconnecté.
+[04:05:41] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52317
+[04:05:41] [INFO] [TCP] Message reçu : LOGIN:test:test
+[04:05:41] [INFO] [LOGIN] Tentative de connexion pour : test
+[04:05:41] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[04:05:49] [INFO] [TCP] Message reçu : CREATE_CHARACTER:styx:HumanMale:Male:Human
+[04:05:49] [SUCCESS] [CHARACTER] Création réussie : styx
+[04:05:50] [INFO] [TCP] Message reçu : REQUEST_CHARACTERS:0
+[04:06:05] [WARNING] [TCP] Client déconnecté.
+[04:27:16] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52491
+[04:27:16] [INFO] [TCP] Message reçu : LOGIN:test:test
+[04:27:16] [INFO] [LOGIN] Tentative de connexion pour : test
+[04:27:16] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[04:27:24] [INFO] [TCP] Message reçu : CREATE_CHARACTER:jiji:HumanMale:Male:Human
+[04:27:24] [SUCCESS] [CHARACTER] Création réussie : jiji
+[04:27:24] [INFO] [TCP] Message reçu : REQUEST_CHARACTERS:0
+[04:35:08] [WARNING] [TCP] Client déconnecté.
+[04:46:54] [WARNING] Commande inconnue : mmnn
+[04:46:57] [WARNING] Commande inconnue : exit
+[04:47:02] [WARNING] [SYSTÈME] Fermeture immédiate demandée par l’administrateur.
+[04:47:02] [WARNING] Arrêt du serveur en cours...
+[04:47:02] [INFO] Sauvegarde des données en cours...
+[04:47:02] [INFO] [DATA MANAGER] Sauvegarde de tous les joueurs...
+[04:47:02] [SUCCESS] [DATA MANAGER] Sauvegarde terminée.
+[04:47:02] [SUCCESS] [OK] Données sauvegardées.
+[04:47:02] [INFO] Déconnexion des joueurs...
+[04:47:02] [SUCCESS] [OK] Tous les joueurs ont été déconnectés.
+[04:47:02] [SUCCESS] ✅ Le serveur s'est arrêté proprement.
+[04:47:16] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[04:47:19] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[04:47:19] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[04:47:19] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[04:47:20] [INFO] [TCP] Serveur en écoute sur le port 7777
+[04:47:20] [INFO] [UDP] Serveur en écoute sur le port 7778
+[04:47:20] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[04:47:20] [SUCCESS] [OK] Base de Données
+[04:47:20] [SUCCESS] [OK] Serveur Réseau
+[04:47:20] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[04:47:38] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52604
+[04:47:38] [INFO] [TCP] Message reçu : LOGIN:test:test
+[04:47:38] [INFO] [LOGIN] Tentative de connexion pour : test
+[04:47:38] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[04:48:36] [WARNING] [TCP] Client déconnecté.
+[04:48:44] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52630
+[04:48:44] [INFO] [TCP] Message reçu : LOGIN:test:test
+[04:48:44] [INFO] [LOGIN] Tentative de connexion pour : test
+[04:48:44] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[05:00:25] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[05:00:28] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[05:00:28] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[05:00:28] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[05:00:28] [INFO] [TCP] Serveur en écoute sur le port 7777
+[05:00:28] [INFO] [UDP] Serveur en écoute sur le port 7778
+[05:00:28] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[05:00:28] [SUCCESS] [OK] Base de Données
+[05:00:28] [SUCCESS] [OK] Serveur Réseau
+[05:00:28] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[05:00:47] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52725
+[05:00:47] [INFO] [TCP] Message reçu : LOGIN:test:test
+[05:00:47] [INFO] [LOGIN] Tentative de connexion pour : test
+[05:00:47] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[05:00:47] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[05:18:11] [SUCCESS] [TCP] Nouveau client connecté : 182.138.158.199:34019
+[05:18:19] [WARNING] [TCP] Client déconnecté.
+[05:18:19] [SUCCESS] [TCP] Nouveau client connecté : 106.4.161.175:30776
+[05:18:27] [WARNING] [TCP] Client déconnecté.
+[05:18:27] [SUCCESS] [TCP] Nouveau client connecté : 60.13.138.124:13079
+[05:18:35] [WARNING] [TCP] Client déconnecté.
+[05:18:35] [SUCCESS] [TCP] Nouveau client connecté : 42.92.121.65:57519
+[05:18:43] [WARNING] [TCP] Client déconnecté.
+[05:18:43] [SUCCESS] [TCP] Nouveau client connecté : 175.17.174.68:37367
+[05:18:52] [WARNING] [TCP] Client déconnecté.
+[05:18:52] [SUCCESS] [TCP] Nouveau client connecté : 106.4.161.173:57911
+[05:18:59] [WARNING] [TCP] Client déconnecté.
+[05:18:59] [SUCCESS] [TCP] Nouveau client connecté : 111.224.218.134:10777
+[05:19:07] [WARNING] [TCP] Client déconnecté.
+[05:19:07] [SUCCESS] [TCP] Nouveau client connecté : 116.52.141.25:28196
+[05:19:15] [WARNING] [TCP] Client déconnecté.
+[05:19:15] [SUCCESS] [TCP] Nouveau client connecté : 221.13.92.131:21447
+[05:19:23] [WARNING] [TCP] Client déconnecté.
+[05:29:57] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[05:29:59] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[05:30:00] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[05:30:00] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[05:30:00] [INFO] [TCP] Serveur en écoute sur le port 7777
+[05:30:00] [INFO] [UDP] Serveur en écoute sur le port 7778
+[05:30:00] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[05:30:00] [SUCCESS] [OK] Base de Données
+[05:30:00] [SUCCESS] [OK] Serveur Réseau
+[05:30:00] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[05:35:19] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:52865
+[05:35:19] [INFO] [TCP] Message reçu : LOGIN:test:test
+[05:35:19] [INFO] [LOGIN] Tentative de connexion pour : test
+[05:35:19] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[05:35:19] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[05:46:04] [DEBUG] [UDP] Message reçu de 146.88.241.80:51926
+[09:43:38] [INFO] Démarrage du cœur du serveur...
+Initialisation : Base de Données
+[09:43:40] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[09:43:41] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[09:43:41] [SUCCESS] [OK] Connexion à la base de données établie.
+Initialisation : Réseau
+[09:43:41] [INFO] [TCP] Serveur en écoute sur le port 7777
+[09:43:41] [INFO] [UDP] Serveur en écoute sur le port 7778
+[09:43:41] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+Vérification des modules
+[09:43:41] [SUCCESS] [OK] Base de Données
+[09:43:41] [SUCCESS] [OK] Serveur Réseau
+[09:43:41] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[09:45:09] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:57725
+[09:45:09] [INFO] [TCP] Message reçu : LOGIN:test:test
+[09:45:09] [INFO] [LOGIN] Tentative de connexion pour : test
+[09:45:09] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[09:45:09] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
