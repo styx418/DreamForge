@@ -1,13 +1,48 @@
-[07:49:55] [INFO] Démarrage du cœur du serveur...
+[22:49:54] [INFO] Démarrage du cœur du serveur...
 Initialisation : Base de Données
-[07:50:00] [SUCCESS] [DATABASE] Configuration chargée avec succès.
-[07:50:00] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
-[07:50:00] [SUCCESS] [OK] Connexion à la base de données établie.
+[22:49:58] [SUCCESS] [DATABASE] Configuration chargée avec succès.
+[22:49:59] [SUCCESS] [DATABASE] Connexion à MySQL réussie.
+[22:49:59] [SUCCESS] [OK] Connexion à la base de données établie.
 Initialisation : Réseau
-[07:50:01] [INFO] [TCP] Serveur en écoute sur le port 7777
-[07:50:01] [INFO] [UDP] Serveur en écoute sur le port 7778
-[07:50:01] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
+[22:50:00] [INFO] [TCP] Serveur en écoute sur le port 7777
+[22:50:00] [INFO] [UDP] Serveur en écoute sur le port 7778
+[22:50:00] [SUCCESS] [OK] Serveur TCP/UDP lancé avec succès.
 Vérification des modules
-[07:50:01] [SUCCESS] [OK] Base de Données
-[07:50:01] [SUCCESS] [OK] Serveur Réseau
-[07:50:01] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[22:50:00] [SUCCESS] [OK] Base de Données
+[22:50:00] [SUCCESS] [OK] Serveur Réseau
+[22:50:00] [SUCCESS] ✅ DreamCraftServer initialisé avec succès. Le serveur est opérationnel.
+[22:50:15] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:55869
+[22:50:15] [INFO] [TCP] Message reçu : LOGIN:test:test
+[22:50:15] [INFO] [LOGIN] Tentative de connexion pour : test
+[22:50:15] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[22:50:15] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[23:34:34] [WARNING] [TCP] Client déconnecté.
+[23:34:43] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:57170
+[23:34:43] [INFO] [TCP] Message reçu : LOGIN:test:test
+[23:34:43] [INFO] [LOGIN] Tentative de connexion pour : test
+[23:34:43] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[23:34:43] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[23:34:49] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[23:35:15] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[23:35:15] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[23:35:15] [INFO] [TCP] Message reçu : CREATE_CHARACTER:test:HumanMale:Male:Human
+[23:36:43] [INFO] [TCP] Message reçu : CREATE_CHARACTER:kikikikikki:HumanFemale:Female:Human
+[23:36:43] [SUCCESS] [CHARACTER] Création réussie : kikikikikki
+[23:38:38] [WARNING] [TCP] Client déconnecté.
+[23:38:48] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:57350
+[23:38:48] [INFO] [TCP] Message reçu : LOGIN:test:test
+[23:38:48] [INFO] [LOGIN] Tentative de connexion pour : test
+[23:38:48] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[23:38:48] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[23:38:59] [INFO] [TCP] Message reçu : CREATE_CHARACTER:lololo:HumanFemale:Female:Human
+[23:38:59] [SUCCESS] [CHARACTER] Création réussie : lololo
+[23:40:58] [WARNING] [TCP] Client déconnecté.
+[23:41:09] [SUCCESS] [TCP] Nouveau client connecté : 127.0.0.1:57444
+[23:41:09] [INFO] [TCP] Message reçu : LOGIN:test:test
+[23:41:09] [INFO] [LOGIN] Tentative de connexion pour : test
+[23:41:09] [SUCCESS] [LOGIN] test connecté depuis 127.0.0.1
+[23:41:09] [INFO] [LOGIN] 0 personnage(s) trouvé(s) pour test
+[23:41:16] [INFO] [TCP] Message reçu : CREATE_CHARACTER:lulululu:HumanMale:Male:Human
+[23:41:16] [SUCCESS] [CHARACTER] Création réussie : lulululu
+[23:48:04] [WARNING] Commande inconnue : SELECT * FROM characters WHERE acc_id = @AccountId AND is_deleted = 0;
+[23:55:15] [SUCCESS] [TCP] Nouveau client connecté : 194.0.234.12:62086

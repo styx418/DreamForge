@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamCraftServer0.02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+156220f47f6f3a302c1452c9f649476a3a5087db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DreamCraftServer0.02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DreamCraftServer0.02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

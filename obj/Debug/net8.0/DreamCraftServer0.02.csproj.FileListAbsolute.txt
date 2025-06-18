@@ -53,12 +53,3 @@ E:\DreamCraftServer0.02\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Phys
 E:\DreamCraftServer0.02\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 E:\DreamCraftServer0.02\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 E:\DreamCraftServer0.02\bin\Debug\net8.0\appsettings.json
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.csproj.AssemblyReference.cache
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.GeneratedMSBuildEditorConfig.editorconfig
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.AssemblyInfoInputs.cache
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.AssemblyInfo.cs
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.csproj.CoreCompileInputs.cache
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.sourcelink.json
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.dll
-E:\GitHub\DreamForge\obj\Debug\net8.0\refint\DreamCraftServer0.02.dll
-E:\GitHub\DreamForge\obj\Debug\net8.0\DreamCraftServer0.02.pdb

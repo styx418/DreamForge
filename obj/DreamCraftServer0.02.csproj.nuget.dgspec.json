@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\DreamForge\\DreamCraftServer0.02.csproj": {}
+    "E:\\DreamCraftServer0.02\\DreamCraftServer0.02.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\DreamForge\\DreamCraftServer0.02.csproj": {
+    "E:\\DreamCraftServer0.02\\DreamCraftServer0.02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\DreamForge\\DreamCraftServer0.02.csproj",
+        "projectUniqueName": "E:\\DreamCraftServer0.02\\DreamCraftServer0.02.csproj",
         "projectName": "DreamCraftServer0.02",
-        "projectPath": "E:\\GitHub\\DreamForge\\DreamCraftServer0.02.csproj",
+        "projectPath": "E:\\DreamCraftServer0.02\\DreamCraftServer0.02.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\DreamForge\\obj\\",
+        "outputPath": "E:\\DreamCraftServer0.02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/fTdNOtT1mTo0VCu66CTR94Hy9rB6X1PERv4iQUcf5Fcfbr84OCr/KRePeY6XQjwkeEzMJjsCDuT7J7g6KbgKg==",
+  "dgSpecHash": "LsxON9nTII1+QE0YJ+hi67y+8MKGI8y5iF8FO5PnqWnkp8XDVNt3KisY3pQHi4kyp5FKG51vnJVERNw9tpyq2g==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\DreamForge\\DreamCraftServer0.02.csproj",
+  "projectFilePath": "E:\\DreamCraftServer0.02\\DreamCraftServer0.02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

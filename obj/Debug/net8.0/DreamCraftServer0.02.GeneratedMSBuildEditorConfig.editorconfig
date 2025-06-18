@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DreamCraftServer0._02
-build_property.ProjectDir = E:\GitHub\DreamForge\
+build_property.ProjectDir = E:\DreamCraftServer0.02\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
